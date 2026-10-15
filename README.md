@@ -1,1 +1,2 @@
-# Enterprise-platform
+# RAG Enterprise Platform
+
